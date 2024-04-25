@@ -1,0 +1,35 @@
+[
+    {
+        "image":"/img/dest1.jpg",
+        "text":"$999 Rome, Florance & Venice 9-Night Vacation w/Air"
+       
+    },
+    {
+        "image":"/img/dest2.jpg",
+        "text":"$1699 Australia, Sydney & Fiji Vacation w/Air, Save $550 "
+    },
+    {
+        "image":"/img/dest3.jpg",
+        "text":"$1699 Greek Islands 8-Night Vacation w/Air, Save $550"
+    },
+    {
+        "image":"/img/dest4.jpg",
+        "text":"$899 Ireland & Germany 6-Night Adventure w/Air"
+    },
+    {
+        "image":"/img/dest5.jpg",
+        "text":"$1299 Morocco 4-star Escorted  Vacation w/Air, Save $1600"
+    },
+    {
+        "image":"/img/dest6.jpg",
+        "text":"$639 Cabo All-Inclusive Beach Getway w/Air, Save $250"
+    },
+    {
+        "image":"/img/sydney.jpg",
+        "text":"$2299 New Zealand: Multi-City Trip w/Tours & Car Rental"
+    },
+    {
+        "image":"/img/dest8.jpg",
+        "text":"$1942 & Up Turkey 8-Night.Trip w/Air, Guided Tours & Hotels"
+    }
+]

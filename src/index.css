@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bg-deepblue{
+    background: #131E3A;
+}
+.bg-purple{
+    background: #5C327A;
+}

@@ -1,0 +1,44 @@
+
+footer{
+    background: rgb(30, 11, 54);
+}
+footer h3, p{
+    color: #fff;
+    
+}
+footer p{
+    line-height: 22px;
+}
+
+footer .foot1{
+    width: 50px;
+    height: 40px;
+}
+
+.content_footer ul{
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+    display: flex;
+    gap: 15px;
+    margin-bottom: 0;
+    
+}
+
+.icons{
+    color: #000;
+    background-color: gray;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 50%;
+}
+.icon{
+    margin-left: 80px;
+    margin-bottom: 5px;
+}
+
+@media screen and (max-width:768px){
+    .content_footer ul{
+        flex-direction: column;       
+    }
+}

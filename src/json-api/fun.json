@@ -1,0 +1,35 @@
+
+
+
+[
+  {
+    "icon": "fa-bicycle",
+    "p1" : "5670 M",
+    "p2" : "Cycling Track"
+  },
+  {
+    "icon": "fa fa-map-o",
+    "p1" : "480 M",
+    "p2" : "Distance Covered"
+  },
+  {
+    "icon": "<GiHiking />",
+    "p1" : "4850 M",
+    "p2" : "Altitude Hike"
+  },
+  {
+    "icon": "fa-sailboat",
+    "p1" : "180 KM",
+    "p2" : "Sailing Distance "
+  },
+  {
+    "icon": "fa-mountain-sun",
+    "p1" : "570 Days",
+    "p2" : "Spent Adventure"
+  },
+  {
+    "icon": "fa-paw",
+    "p1" : "640 M",
+    "p2" : "Jungle Distance"
+  }
+]

@@ -1,0 +1,51 @@
+
+.esti{
+   
+    background-color: rgb(43, 141, 202);
+    width: 100%;
+    min-height: 240px;
+    position: relative;
+}
+.esti img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 160px;
+}
+
+/* .under{
+   border-bottom: 2px solid blueviolet;
+   
+} */
+.under::before{
+    content: "GET A";
+    border-bottom: 2px solid rgb(43, 46, 226);
+    width: 20px;
+    margin-bottom: 10px;
+}
+
+.form input,select{
+    background-color: #ccc;
+    color: black;
+    border: none;
+    padding: 10px 15px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+.form input,select::placeholder{
+    margin-inline: 10px;
+    
+}
+.form input[type="button"]{
+    background-color: rgb(246, 112, 64);
+    padding: 10px 35px;
+    color: #000;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+@media screen  and  (max-width:780px) {
+    .esti img{
+        display: none;
+    }
+}
