@@ -20,7 +20,7 @@ function Home() {
         <div className="container">
           <div className="row">
             <div className="col-md-6 py-5">
-              <h1 className='fw-normal text-white pt-4 pb-2'>The best place to find <br /> the cheapest airfares</h1>
+              <h1 className='fw-normal text-white pt-4 pb-2'>The best place to Need find <br /> the Very Fast airfares</h1>
               <h3 className="fw-bold">-every single time</h3>
             </div>
           </div>
